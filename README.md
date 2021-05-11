@@ -28,3 +28,4 @@ third landing page
 
 ## Small projects
   [memory pair game](https://antonkottans.github.io/memory-pair-game/)
+  [Random friends app](https://antonkottans.github.io/friends-app/)
