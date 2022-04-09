@@ -36,4 +36,8 @@ third landing page
   [source](https://github.com/AntonKottans/friends-app)<br />
   [beauty layout](https://elminio-anton.github.io/beauty/)<br />
   [source](https://github.com/Elminio-Anton/beauty)<br />
+## React
+  [movie-app](https://elminio-anton.github.io/movie-app/)<br />
+  [source](https://github.com/Elminio-Anton/movie-app)<br />
+
 
