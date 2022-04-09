@@ -37,7 +37,7 @@ third landing page
   [beauty layout](https://elminio-anton.github.io/beauty/)<br />
   [source](https://github.com/Elminio-Anton/beauty)<br />
 ## React
-  [movie-app](https://elminio-anton.github.io/movie-app/)<br />
+  [movie-app](https://elminio-anton.github.io/movie-app-build/)<br />
   [source](https://github.com/Elminio-Anton/movie-app)<br />
 
 
