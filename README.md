@@ -34,7 +34,7 @@ third landing page
   [source](https://github.com/AntonKottans/memory-pair-game)<br />
   [Random friends app](https://antonkottans.github.io/friends-app/)<br />
   [source](https://github.com/AntonKottans/friends-app)<br />
-  [beauty layout](https://elminio-anton.github.io/beauty/)<br />
+  [beauty layout uncomplete](https://elminio-anton.github.io/beauty/)<br />
   [source](https://github.com/Elminio-Anton/beauty)<br />
 ## React
   [movie-app](https://elminio-anton.github.io/movie-app-build/)<br />
