@@ -38,14 +38,14 @@
   </details>
   
 ## React
-  [movie-app](https://elminio-anton.github.io/movie-app-build/) - HTML,CSS,JS,React,React-router<br />
+  [movie-app](https://elminio-anton.github.io/movie-app-build/) - HTML,SCSS,JS,React,React-router<br />
   [source](https://github.com/Elminio-Anton/movie-app)<br />
   <details>
     <summary>screenshot</summary>
     <img src = "./img/imdb.png">
   </details>
   
-  [time-management](https://elminio-anton.github.io/Time-management/) - HTML,CSS,JS,React<br />
+  [time-management](https://elminio-anton.github.io/Time-management/) - HTML,SCSS,JS,React<br />
   [source](https://github.com/Elminio-Anton/time-management-source)<br />
   <details>
     <summary>screenshot</summary>
